@@ -1,0 +1,20 @@
+body{
+text-align: center;
+}
+#applab{
+background-color: rgb(140, 202, 210);
+}
+#gamelab{
+background-color: rgb(101, 221, 149);
+}
+.Game{
+width:392px;
+height: 620px;
+}
+#chatbot{
+background-color: rgb(101, 233, 198);
+}
+h2{
+font-family:sans-serif;
+font-size:22px;
+}
